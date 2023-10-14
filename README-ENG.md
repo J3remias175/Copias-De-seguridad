@@ -1,6 +1,3 @@
-Here's the previous text in English with markdown formatting:
-
-```markdown
 ## Summary of Security and Advantages of Automatic Backup with pCloud
 
 The security of our personal and professional data is essential in the digital age. For users, especially those in the field of computer security, such as ethical hackers, keeping sensitive information off their devices is of vital importance. Here, we will highlight the advantages of using automatic backup with pCloud, a cloud storage service, and how this contributes to keeping your data secure.
